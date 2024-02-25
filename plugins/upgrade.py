@@ -13,11 +13,11 @@ async def upgrade(bot,update):
 	
 	**⚡ Standard**
 	Daily Upload limit 50GB
-	Price Rs 40/🌎 0.5$  per Month
+	Price Rs 40rs/🌎 0.5$  per Month
 	
 	**💎 Pro**
 	Daily Upload limit 100GB
-	Price Rs 80/🌎 1$  per Month
+	Price Rs 80rs/🌎 1$  per Month
 	
 	
 	Pay Using Upi I'd `007jatji@ybl`
