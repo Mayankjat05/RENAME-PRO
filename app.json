@@ -5,11 +5,11 @@
 
     "description": "4GB Rename Bot With Premium Support",
 
-    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "HxBots" ],
+    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "Warrior_Units" ],
 
-    "repository": "https://github.com/oVo-HxBots/RENAME-PRO",
+    "repository": "https://github.com/",
 
-    "success_url": "https://t.me/HxBots",
+    "success_url": "https://t.me/Warrior_Units",
 
     "env": {
 
@@ -17,7 +17,7 @@
 
             "description" : "Channel or Group user Name With @",
 
-            "value" : "HxBots",
+            "value" : "Warrior_Units",
 
             "required" : false
 
@@ -109,7 +109,7 @@
 
             "description" : "Start up pic of your bot. Get from telegraph_Bot",
 
-            "value" : "https://graph.org/file/cca849a2f63053fa3f622.jpg",
+            "value" : "https://telegra.ph/file/0c3c0a72ca2785c0cf910.jpg",
 
             "required" : false
 
@@ -118,7 +118,7 @@
 
             "description" : "Add bot username without @",
 
-            "value" : "Hx_RenameBot",
+            "value" : "Thumbnail_changerROBOT",
 
             "required" : true
 
