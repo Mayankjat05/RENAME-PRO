@@ -1,6 +1,5 @@
 from pyrogram import Client, filters
-from helper.database import find, delthumb, addthumb
-
+from helper.database import find, delthumb, addthumb, viewthumb
 @Client.on_message(filters.private & filters.command(['viewthumb']))
 async def viewthumb(client,message):
 		print(message.chat.id)
