@@ -50,6 +50,9 @@ def insert(chat_id):
 def addthumb(chat_id, file_id):
     dbcol.update_one({"_id": chat_id}, {"$set": {"file_id": file_id}})
 
+def viewthumb(chat_id, file_id):
+        user = dbcol.find({'_id': chat_id})
+        return user.get('file_id', None)
 
 def delthumb(chat_id):
     dbcol.update_one({"_id": chat_id}, {"$set": {"file_id": None}})
